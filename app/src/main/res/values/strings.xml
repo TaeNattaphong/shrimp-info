@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">infoShrimps</string>
+
+    <string-array name="jod">
+        <item>ให้อาหารกุ้ง</item>
+        <item>วัดค่า pH น้ำกุ้ง</item>
+        <item>เพิ่มออกซิเจนให้น้ำกุ้ง(ตีน้ำกุ้ง)</item>
+        <item>เปลี่ยนถ่ายน้ำกุ้ง</item>
+        <item>หว่านปูน</item>
+        <item>เอาลูกกุ้งลงบ่อ</item>
+        <item>เตรียมบ่อลงกุ้ง</item>
+        <item>เตรียมบ่อหลังขึ้นกุ้ง</item>
+    </string-array>
 </resources>
