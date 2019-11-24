@@ -77,10 +77,6 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Na
 		ADDED from C:\Users\Nattaphong\Desktop\shrimp-info\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from C:\Users\Nattaphong\Desktop\shrimp-info\app\src\main\AndroidManifest.xml:11:9-40
-activity#com.example.infoshrimps.FormAddPondActivity
-ADDED from C:\Users\Nattaphong\Desktop\shrimp-info\app\src\main\AndroidManifest.xml:12:9-66
-	android:name
-		ADDED from C:\Users\Nattaphong\Desktop\shrimp-info\app\src\main\AndroidManifest.xml:12:19-54
 activity#com.example.infoshrimps.MainActivity
 ADDED from C:\Users\Nattaphong\Desktop\shrimp-info\app\src\main\AndroidManifest.xml:13:9-19:20
 	android:name
